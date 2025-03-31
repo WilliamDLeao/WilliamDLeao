@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,git,javascript,java,vscode,ps" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,java,vscode,ps" />
   </a>
 </p>
