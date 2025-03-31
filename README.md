@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp, python, html, css, git, javascript, java" />
   </a>
 </p>
