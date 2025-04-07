@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I'm William, a computer engineering student at Cefet MG since 2024.
+- I am currently studying Algorithms and Data Structures.
+- I also have knowledge in digital art. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint.
+- I know how to program in Java, CPP, C, Python and I'm currently learning Lua.
+  
 ## GitHub Stats 📈
 
 <p align="center">
