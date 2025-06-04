@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D9219&width=435&lines=Hello+%3A))](https://git.io/typing-svg)
 - I'm William, a computer engineering student at Cefet MG since 2024.
 - I am currently studying Algorithms and Data Structures.
 - I also have knowledge in digital art. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint.
