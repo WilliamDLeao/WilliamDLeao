@@ -4,6 +4,7 @@
 - I am currently studying Algorithms and Data Structures.
 - I also have knowledge in digital art. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint.
 - I know how to program in Java, CPP, C, Python and I'm currently learning Lua.
+- I have already taught programming in the Prorobot Extension Project (2024).
   
 ## GitHub Stats 📈
 
@@ -23,7 +24,8 @@
     />
   </a>
 </p>
-## My Activity 📈
+
+## My Activity 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamDLeao/WilliamDLeao/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WilliamDLeao/WilliamDLeao/output/pacman-contribution-graph.svg">
