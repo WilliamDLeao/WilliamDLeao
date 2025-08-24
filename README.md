@@ -6,6 +6,7 @@
 - I know how to program in Java, CPP, C, Python, Lua, JS.
 - I love to participate of big projects.
 - I have already worked on the Prorobot Extension Project (2024) and Job Interview Kombat (2025).
+- I've produced my own game! Play Circles on Roblox Studio!
   
 ## GitHub Stats 📈
 
