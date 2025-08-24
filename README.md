@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D9219&width=435&lines=Hello+human!)](https://git.io/typing-svg)
 - I'm William, a computer engineering student at Cefet MG since 2024.
 - I am currently studying Algorithms and Data Structures II.
-- I also have knowledge in digital art. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint.
+- I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I alredy worked as freelancer designer.
 - I know how to program in Java, CPP, C, Python, Lua, JS.
 - I love to participate of big projects.
 - I have already worked on the Prorobot Extension Project (2024) and Job Interview Kombat (2025).
