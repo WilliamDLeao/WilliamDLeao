@@ -5,7 +5,8 @@
 - I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I alredy worked as freelancer designer.
 - I know how to program in Java, CPP, C, Python, Lua, JS.
 - I love to participate of big projects.
-- I have already worked on the Prorobot Extension Project (2024) and Job Interview Kombat (2025).
+- I have already worked teaching programming classes on the Prorobot Extension Project (2024).
+- I was part of the team and worked as a web designer and front end on Job Interview Kombat (2025).
 - I've produced my own game! Play Circles on Roblox!
 - I am currently involved in a scientific initiation project on the impacts of using artificial intelligence in English language learning.
   
