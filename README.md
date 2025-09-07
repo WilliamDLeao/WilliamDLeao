@@ -7,6 +7,7 @@
 - I love to participate of big projects.
 - I have already worked on the Prorobot Extension Project (2024) and Job Interview Kombat (2025).
 - I've produced my own game! Play Circles on Roblox!
+- I am currently involved in a scientific initiation project on the impacts of using artificial intelligence in English language learning.
   
 ## GitHub Stats 📈
 
