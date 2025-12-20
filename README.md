@@ -1,14 +1,13 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D9219&width=435&lines=Hello+human!)](https://git.io/typing-svg)
 - I'm William, a computer engineering student at Cefet MG since 2024.
-- I am currently studying Algorithms and Data Structures II.
-- I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I alredy worked as freelancer designer.
+- I am currently studying React.
 - I know how to program in Java, CPP, C, Python, Lua, JS.
-- I love to participate of big projects.
+- I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I alredy worked as freelancer designer.
 - I have already worked teaching programming classes on the Prorobot Extension Project (2024).
-- I was part of the team and worked as a web designer and front end on Job Interview Kombat (2025).
-- I've produced my own game! Play Circles on Roblox!
+- I was part of the team and worked as a web designer and frontend developer on [Job Interview Kombat (2025)](https://pedroaugusto08.github.io/Job-Interview-Kombat/).
 - I am currently involved in a scientific initiation project on the impacts of using artificial intelligence in English language learning.
+- I've produced 2 games! Play Circles on Roblox and Caso 77 on TIC-80!
   
 ## GitHub Stats 📈
 
