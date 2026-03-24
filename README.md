@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D9219&width=435&lines=Hello+human!)](https://git.io/typing-svg)
-- I'm William, a computer engineering student at Cefet MG since 2024.
+- I'm William, a computer engineering student at Cefet MG since 2024. You can see my Portfolio [here](https://williamdleao.github.io/Portifolio/).
 - I am currently studying React.
 - I know how to program in Java, CPP, C, Python, Lua, JS.
 - I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I alredy worked as freelancer designer.
@@ -41,5 +41,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,javascript,java,vscode,ps,linux,lua" />
+  </a>
+</p>
+
+## Contact Me 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=clinkedin" />
   </a>
 </p>
