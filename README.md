@@ -14,8 +14,6 @@
 
 [<img src="gallery/job_interview.png" width="200" alt="Tela 1">](gallery/job_interview.png)
 [<img src="gallery/ai.png" width="200" alt="Tela 2">](gallery/ai.png)
-[<img src="gallery/fake_news.png" width="200" height="113" alt="Tela 1">](gallery/fake_news.png)
-[<img src="gallery/task_manager.png" width="250" height="113"  alt="Tela 1">](gallery/task_manager.png)
 
 ## GitHub Stats 📈
 
