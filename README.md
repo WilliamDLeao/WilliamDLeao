@@ -6,24 +6,17 @@
 - I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I've worked as a freelancer designer.
 - I've taught programming classes for the Prorobot Extension Project (2024).
 - I worked on [Job Interview Kombat (2025)](https://pedroaugusto08.github.io/Job-Interview-Kombat/).
-- I am currently conducting my second undergraduate research project, focusing on automatic fake news detection. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/)
+- I am currently conducting my second undergraduate research project, focusing on automatic fake news detection. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/).
 - My first undergraduate research project is focused on the impacts of using artificial intelligence in English language learning.
 - I've produced 2 games! Play Circles on Roblox and Caso 77 on TIC-80!
   
 ## Gallery
 
-[<img src="imgs/job_interview.png" width="200" alt="Tela 1">](imgs/main.png)
-[<img src="imgs/loading.png" width="200" alt="Tela 2">](imgs/loading.png)
-[<img src="imgs/credits.png" width="200" alt="Tela 1">](imgs/credits.png)
-[<img src="imgs/rules.png" width="200" alt="Tela 1">](imgs/credits.png)
+[<img src="imgs/job_interview.png" width="200" alt="Tela 1">](imgs/job_interview.png)
+[<img src="imgs/ai.png" width="200" alt="Tela 2">](imgs/ai.png)
+[<img src="imgs/fake_news.png" width="200" alt="Tela 1">](imgs/fake_news.png)
+[<img src="imgs/task_manager.png" width="200" alt="Tela 1">](imgs/task_manager.png)
 [<img src="imgs/options.png" width="200" alt="Tela 3">](imgs/options.png)
-[<img src="imgs/jobs.png" width="200" alt="Tela 2">](imgs/jobs.png)
-[<img src="imgs/prelude.png" width="200" alt="Tela 1">](imgs/prelude.png)
-[<img src="imgs/strike.png" width="200" alt="Tela 3">](imgs/strike.png)
-[<img src="imgs/question.png" width="200" alt="Tela 2">](imgs/question.png)
-[<img src="imgs/versus.png" width="200" alt="Tela 3">](imgs/versus.png)
-[<img src="imgs/exit.png" width="200" alt="Tela 1">](imgs/credits.png)
-[<img src="imgs/winner.png" width="200" alt="Tela 3">](imgs/winner.png)
 
 ## GitHub Stats 📈
 
