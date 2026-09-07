@@ -12,11 +12,11 @@
   
 ## Gallery
 
-[<img src="imgs/job_interview.png" width="200" alt="Tela 1">](imgs/job_interview.png)
-[<img src="imgs/ai.png" width="200" alt="Tela 2">](imgs/ai.png)
-[<img src="imgs/fake_news.png" width="200" alt="Tela 1">](imgs/fake_news.png)
-[<img src="imgs/task_manager.png" width="200" alt="Tela 1">](imgs/task_manager.png)
-[<img src="imgs/options.png" width="200" alt="Tela 3">](imgs/options.png)
+[<img src="imgs/job_interview.png" width="200" alt="Tela 1">](gallery/job_interview.png)
+[<img src="imgs/ai.png" width="200" alt="Tela 2">](gallery/ai.png)
+[<img src="imgs/fake_news.png" width="200" alt="Tela 1">](gallery/fake_news.png)
+[<img src="imgs/task_manager.png" width="200" alt="Tela 1">](gallery/task_manager.png)
+[<img src="imgs/options.png" width="200" alt="Tela 3">](gallery/options.png)
 
 ## GitHub Stats 📈
 
