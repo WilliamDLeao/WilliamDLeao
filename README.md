@@ -1,15 +1,14 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0D9219&width=435&lines=Hello+human!)](https://git.io/typing-svg)
 - I'm William, a computer engineering student at Cefet MG since 2024.
-- I am open to interships!
+- I am currently conducting my second undergraduate research project, focusing on automatic fake news detection. I really LOVE Machine Learning!
 - I program in Java, CPP, C, Python, Lua, JS, TS, React.
-- I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I've worked as a freelancer designer.
 - I've taught programming classes for the Prorobot Extension Project (2024).
 - I worked on [Job Interview Kombat (2025)](https://pedroaugusto08.github.io/Job-Interview-Kombat/).
-- I am currently conducting my second undergraduate research project, focusing on automatic fake news detection. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/).
-- My first undergraduate research project is focused on the impacts of using artificial intelligence in English language learning.
+- My first undergraduate research project is focused on the impacts of using artificial intelligence in English language learning. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/).
+- I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I've worked as a freelancer designer.
 - I've produced 2 games! Play Circles on Roblox and Caso 77 on TIC-80!
-  
+- I am open to interships!
 ## Gallery
 
 [<img src="gallery/job_interview.png" width="200" alt="Tela 1">](gallery/job_interview.png)
