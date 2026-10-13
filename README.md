@@ -7,7 +7,7 @@
 - I worked on [Job Interview Kombat (2025)](https://pedroaugusto08.github.io/Job-Interview-Kombat/).
 - My first undergraduate research project is focused on the impacts of using artificial intelligence in English language learning. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/).
 - I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I've worked as a freelancer designer.
-- I've won 3rd place on the Feira Brasileira de Iniciação Cintífica and 2nd place on META!
+- I've won 3rd place on the Feira Brasileira de Iniciação Científica and 2nd place on META!
 - I am open to interships!
 ## Gallery
 [<img src="gallery/febic.jpg" width="200" alt="Tela 2">](gallery/febic.jpg)
