@@ -12,8 +12,8 @@
 ## Gallery
 [<img src="gallery/febic.jpg" width="200" alt="Tela 2">](gallery/febic.jpg)
 [<img src="gallery/meta.jpeg" width="255" alt="Tela 2">](gallery/meta.jpeg)
-[<img src="gallery/job_interview.png" width="300" alt="Tela 1">](gallery/job_interview.png)
-[<img src="gallery/ai.png" width="300" alt="Tela 2">](gallery/ai.png)
+[<img src="gallery/job_interview.png" width="250" alt="Tela 1">](gallery/job_interview.png)
+[<img src="gallery/ai.png" width="250" alt="Tela 2">](gallery/ai.png)
 
 
 ## GitHub Stats 📈
