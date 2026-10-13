@@ -7,12 +7,14 @@
 - I worked on [Job Interview Kombat (2025)](https://pedroaugusto08.github.io/Job-Interview-Kombat/).
 - My first undergraduate research project is focused on the impacts of using artificial intelligence in English language learning. You can see all the information gathered on the [website](https://williamdleao.github.io/Project_IA-Ally-or-Enemy-/).
 - I also have knowledge in digital art and design. I have been practicing since 2019 and have used Photoshop, Krita and ClipStudio Paint. I've worked as a freelancer designer.
-- I've produced 2 games! Play Circles on Roblox and Caso 77 on TIC-80!
+- I've won 3rd place on the Feira Brasileira de Iniciação Cintífica and 2nd place on META!
 - I am open to interships!
 ## Gallery
+[<img src="gallery/febic.jpg" width="200" alt="Tela 2">](gallery/ai.png)
+[<img src="gallery/meta.jpeg" width="255" alt="Tela 2">](gallery/ai.png)
+[<img src="gallery/job_interview.png" width="300" alt="Tela 1">](gallery/job_interview.png)
+[<img src="gallery/ai.png" width="300" alt="Tela 2">](gallery/ai.png)
 
-[<img src="gallery/job_interview.png" width="200" alt="Tela 1">](gallery/job_interview.png)
-[<img src="gallery/ai.png" width="200" alt="Tela 2">](gallery/ai.png)
 
 ## GitHub Stats 📈
 
